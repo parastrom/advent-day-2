@@ -1,1 +1,1 @@
-#Advent Of Code Day 2
+# Advent Of Code Day 2
